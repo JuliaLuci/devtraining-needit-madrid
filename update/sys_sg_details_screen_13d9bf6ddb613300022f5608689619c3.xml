@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="NeedIt - Proxim Trimestre">7e48621ddb613300022f560868961972</data_item>
+        <description>Registros do proximo trimestre </description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">22d9bb6ddb613300022f560868961933</icon>
+        <item_view display_value="Needlt-Proximo Trimestre  detail item view">fed9bf6ddb613300022f560868961977</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>03d93f6ddb613300022f5608689619e3</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-21 14:24:02</sys_created_on>
+        <sys_id>13d9bf6ddb613300022f5608689619c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_details_screen_13d9bf6ddb613300022f5608689619c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-21 14:24:02</sys_updated_on>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=13d9bf6ddb613300022f5608689619c3"/>
+</record_update>

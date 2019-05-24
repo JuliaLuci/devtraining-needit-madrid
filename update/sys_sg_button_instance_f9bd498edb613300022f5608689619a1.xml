@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Prioridade de Atualização">c9bd7806db613300022f560868961990</button>
+        <description/>
+        <field_name/>
+        <label>Update Priority</label>
+        <location>top</location>
+        <name>Prioridade de atualizaçã</name>
+        <order>1</order>
+        <parent>2b40ffa5db613300022f5608689619f5</parent>
+        <parent_table>sys_sg_details_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-22 15:08:53</sys_created_on>
+        <sys_id>f9bd498edb613300022f5608689619a1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Prioridade de atualizaçã</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_f9bd498edb613300022f5608689619a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-22 15:20:38</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=f9bd498edb613300022f5608689619a1"/>
+</record_update>
